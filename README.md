@@ -31,9 +31,7 @@ Monkland Coffee Roasters | https://monklandcoffee.com/
 Café Binocle | https://www.cafebinocle.com/
 escape.cafe | https://fr.escape.cafe/
 Brûlerie du quai | https://www.brulerieduquai.com/
-dead simple coffee | https://www.deadsimplecoffee.com/
 Kittel | https://kittelcoffee.com/
-Deluis | https://deluiscoffee.com/
 Café Charlevoix | https://cafecharlevoix.ca/
 Saint-Henri micro-torréfacteur | https://sainthenri.ca/
 Lenoir & Lacroix | https://lenoirlacroix.ca/
